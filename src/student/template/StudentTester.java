@@ -16,7 +16,7 @@ public class StudentTester {
     StudentTemplate[]array=new StudentTemplate[3];
     array[0]=new StudentTemplate("Tarik");
     array[1]=new StudentTemplate("Tarik2");
-    array[2]=new StudentTemplate("Tarik3");
+    array[2]=new StudentTemplate("Tarik3 bozdemir");
    /* array[0]=self;
     array[1]=self1;
     array[2]=self2;
