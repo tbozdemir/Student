@@ -14,7 +14,7 @@ public class StudentTester {
    // self.setName("Tarik");
    // System.out.println(self.getName());
     StudentTemplate[]array=new StudentTemplate[3];
-    array[0]=new StudentTemplate("Tarik");
+    array[0]=new StudentTemplate("Tarik Bozdemir");
     array[1]=new StudentTemplate("Tarik2");
     array[2]=new StudentTemplate("Tarik3 bozdemir");
    /* array[0]=self;
