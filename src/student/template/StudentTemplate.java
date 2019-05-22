@@ -11,6 +11,7 @@ package student.template;
  */
 public class StudentTemplate {
 private String _name;
+private int _number;
 public StudentTemplate(){
     
 }
@@ -24,6 +25,20 @@ public void setName(String name){
 public String getName(){
     return _name;
 }
+
+    /**
+     * @return the number
+     */
+    public int getNumber() {
+        return _number;
+    }
+
+    /**
+     * @param number the number to set
+     */
+    public void setNumber(int number) {
+        _number = number;
+    }
 
     
 }
