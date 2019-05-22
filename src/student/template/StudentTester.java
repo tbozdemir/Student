@@ -14,9 +14,9 @@ public class StudentTester {
    // self.setName("Tarik");
    // System.out.println(self.getName());
     StudentTemplate[]array=new StudentTemplate[3];
-    array[0]=new StudentTemplate("Tarik Bozdemir");
+    array[0]=new StudentTemplate("Tarik");
     array[1]=new StudentTemplate("Tarik2");
-    array[2]=new StudentTemplate("Tarik3 bozdemir");
+    array[2]=new StudentTemplate("Tarik3");
    /* array[0]=self;
     array[1]=self1;
     array[2]=self2;
@@ -26,6 +26,7 @@ public class StudentTester {
    
     for(int i=0;i<3;i++){
         System.out.println(array[i].getName());
+        System.out.println("TRK");
     }
 }
 }
