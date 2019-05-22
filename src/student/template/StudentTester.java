@@ -26,7 +26,7 @@ public class StudentTester {
    
     for(int i=0;i<3;i++){
         System.out.println(array[i].getName());
-        System.out.println("TRK");
+        System.out.println("TRK Bozdemir");
     }
 }
 }
